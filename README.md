@@ -83,8 +83,8 @@ forma-store/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Aslam6674/Forma-Store.git
+cd Forma-Store
 ```
 
 ### 2. Set up the backend
